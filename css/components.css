@@ -4,6 +4,10 @@ nav a {
   font-weight: 600;
 }
 
+nav a:hover {
+  color: #ffffff;
+}
+
 footer a {
   color: #ffffff;
 }
